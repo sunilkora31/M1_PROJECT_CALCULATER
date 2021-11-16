@@ -1,4 +1,4 @@
-# M1_PROJECT_CALCULATER
+# M1_application_CALCULATER
 I wish to create calculater program by c programming
 #include <stdio.h>
 int main(){
