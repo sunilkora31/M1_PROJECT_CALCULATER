@@ -1,0 +1,11 @@
+
+The calculator design system
+Before we start to think about a calculator state machine we should make a design of the
+calculator control system. 
+Parse the incoming keys and assign them to the appropriate control value.
+• Complete an Expression string from incoming keys.
+• Perform a calculation defined by the Expression string according to arithmetic rules, when
+1/12
+encountering operator keys +, -, *, / as well as the Equals key =. We notice that we need
+several calculation functions as the the rule for a calculation after Equals key and addition
+and subtraction operators are different than for multiplication and division operators. 

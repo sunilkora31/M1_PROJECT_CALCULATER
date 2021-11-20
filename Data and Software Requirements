@@ -1,0 +1,11 @@
+Software Requirements:
+Code::blocks version 20.03.
+ Windows Operating System.
+
+Data Requirements:
+To display numbers and the result.
+Numbers from 0-9.
+Operations such as addition, subtraction, multiplication, division,
+modulus buttons (+, -, *, /, %).
+Get correct output.
+Store result.

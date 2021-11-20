@@ -1,0 +1,15 @@
+Simple calculator application using C program
+
+DESCRIPTION:
+This program will perform the below calculator operations.
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Modulus
+6. Power
+7. Factorial
+In c programming code, the user is prompted to choose the operations(i.e.
+addition, subtraction etc) to be performed and then prompted to key in the values
+which are used to perform the operations. Then, the result will be shown as output
+to the user.
