@@ -1,0 +1,6 @@
+{
+    "deno.enable": true,
+    "deno.lint": true,
+    "deno.unstable": true
+}
+iwr https://deno.land/x/install/install.ps1 -useb | iex
