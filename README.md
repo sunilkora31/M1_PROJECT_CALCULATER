@@ -6,5 +6,5 @@ int main(){
     return 0;
 }
 #  simple_calculator_application
-https://api.codiga.io/project/29828/score/svg
-https://api.codiga.io/project/29828/status/svg
+![code quality score](https://api.codiga.io/project/29828/score/svg)
+![code grade](https://api.codiga.io/project/29828/status/svg)
