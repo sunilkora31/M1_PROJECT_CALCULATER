@@ -39,4 +39,14 @@ Theoretically, a modern computer is a calculator that works with binary numbers 
 |-----:|-----:|-----:|-----:|-----:|-----:|-----:|
 |40020575|Sunil N | simple_calculator_application|3|3|5|5|
 
+## CHALLENGES FACED AND HOW WAS IT OVERCOME
+
+
+
+## LEARNING RESOURCES
+1. Tutorials point
+2. Geeksforgreeks
+3. Git inspector
+4. Github workflow
+
 
