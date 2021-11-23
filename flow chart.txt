@@ -1,1 +1,3 @@
 flow chart
+
+![flow](https://user-images.githubusercontent.com/94192323/143016986-66a528e5-75dc-4d65-92a4-3d13bdf991c3.PNG)
