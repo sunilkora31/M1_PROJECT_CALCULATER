@@ -1,5 +1,5 @@
+The calculator design system:
 
-The calculator design system
 Before we start to think about a calculator state machine we should make a design of the
 calculator control system. 
 Parse the incoming keys and assign them to the appropriate control value.
