@@ -1,0 +1,44 @@
+The calculator has the following keys: 0..9, ., +, -, *, /, ±, =, C, CE and 1-operand keys: 1/x, x2
+sqrt. 
+In any situation the calculator has to produce a correct result defined by the well known
+arithmetic rules.
+ If the calculations is impossible the calculator has to display information helping
+the user to resolve the erroneous situation,
+ like:
+On encountering a division by 0 the display should read "Cannot divide by 0" and typing the
+key “C” should reset the calculator.
+ On calculating the square root value of a negative operand the display should read "Wrong
+operand".
+On erroneous operand or operation keys the display should read “Reset (C) to continue” or
+“Clear (CE) to continue” as appropriate.
+Of course, any situation can be cleared using the main reset key “C”.
+
+SWOT Analysis
+Strength
+The ultimate strength of  Calculators is its innovative and user-friendly products.
+
+Weakness
+calculator has a strong brand image for manufacturing calculators, but at the same time, this brand image works as a stereotype for them.
+
+Opportunity
+orThe tech-based market has a huge opportunities in capturing the youth market. And calculator is comparatively already one step ahead than other companies. Because since the beginning of childhood, we got introduced to Calculalor as a helping partner in mathematics.
+
+Threats
+ slower growth in technological innovation will also bring a significant threat in the upcoming dynamic world.
+
+ 4W's and 1'H
+Why:
+The main concept of building this project is to can solve a problem using one strategy , and check their answers using a different strategy. Calculators help kids solve more problems in less time. Calculators allow students to work more quickly, which means they can solve more problems in a given time.
+
+What:
+This project is all about the to do correct calculations, and to do so efficiently
+
+Where:
+This project is to be implemented on various stores as such the electronic store so that the billing system can be managed efficiently.
+
+When:
+This project is going to be deployed on 25/11/2021.
+
+How:
+This project is going to be based on It is clear that a calculator should relieve the user of the need to do mental operations and of the need to rely on paper, so far as possible.
+
