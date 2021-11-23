@@ -22,7 +22,7 @@ As calculators became more advanced during the 1970s, they became able to make c
 
 Theoretically, a modern computer is a calculator that works with binary numbers and has a much larger memory. But in the practical sense, a computer is far more than a mere calculator, because of the wide variety of non-computational tasks it can perform.
 
-## TEST PLAN
+Folder Structure:
 
 |      Folder     |      Description                                              |
 | ----------------- | ------------------------------------------------------------------ |
