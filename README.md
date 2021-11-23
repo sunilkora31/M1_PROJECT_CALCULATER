@@ -40,15 +40,13 @@ Theoretically, a modern computer is a calculator that works with binary numbers 
 |40020575|Sunil N | simple_calculator_application|3|3|5|5|
 
 ## CHALLENGES FACED AND HOW WAS IT OVERCOME
+CHALLENGES:
 1.Despite the availability of multiple resources, project management tools, training materials, and flexible methodologies.
 2.In initial i have lack of a project plan.
 
+HOW WAS IT OVERCOME:
 1.I have to set a clearly defined project goal.
 2.Effective communication in project  is extremely important for a successful project.
-
-
-
-
 
 ## LEARNING RESOURCES
 1. Tutorials point
