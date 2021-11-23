@@ -6,9 +6,5 @@ int main(){
     return 0;
 }
 #  simple_calculator_application
-
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/de07a588f1304bcb88cc0546fe2a60fc)](https://app.codacy.com/gh/calculatorapplication?utm_source=github.com&utm_medium=referral&utm/simplecalculatorapplication&utm_campaign=Badge_Grade_Settings)
-
-![Unit testing](https://github.com/calculatorapplication/workflows/Unit%20testing/badge.svg)
-![cppcheck-action](https://github.com/simplecalculatorapplication/workflows/cppcheck-action/badge.svg)
-![C/C++ CI](https://github.com/calculatorapplication/workflows/C/C++%20CI/badge.svg)
+https://api.codiga.io/project/29828/score/svg
+https://api.codiga.io/project/29828/status/svg
