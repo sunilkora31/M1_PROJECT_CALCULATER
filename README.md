@@ -48,10 +48,5 @@ HOW WAS IT OVERCOME:
 1.I have to set a clearly defined project goal.
 2.Effective communication in project  is extremely important for a successful project.
 
-## LEARNING RESOURCES
-1. Tutorials point
-2. Geeksforgreeks
-3. Git inspector
-4. Github workflow
 
 
