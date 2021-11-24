@@ -39,6 +39,7 @@ Theoretically, a modern computer is a calculator that works with binary numbers 
 CHALLENGES:
 1.Despite the availability of multiple resources, project management tools, training materials, and flexible methodologies.
 2.In initial i have lack of a project plan.
+
 HOW WAS IT OVERCOME:
 1.I have to set a clearly defined project goal.
 2.Effective communication in project  is extremely important for a successful project.
