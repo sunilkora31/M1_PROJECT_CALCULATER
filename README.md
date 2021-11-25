@@ -5,7 +5,7 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/1823bb826ac842b38871f0aa670af5db)](https://www.codacy.com/gh/sunilkora31/M1_PROJECT_CALCULATER/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sunilkora31/M1_PROJECT_CALCULATER&amp;utm_campaign=Badge_Grade)
 ![C/C++ CI](https://github.com/Thanu-kv/105174-simplecalculatorapplication/workflows/C/C++%20CI/badge.svg)
 ![Unit testing](https://github.com/Thanu-kv/105174-simplecalculatorapplication/workflows/Unit%20testing/badge.svg)
-![cppcheck-action](https://github.com/Thanu-kv/105174-simplecalculatorapplication/workflows/cppcheck-action/badge.svg) 
+[![cppcheck-action](https://github.com/sunilkora31/M1_PROJECT_CALCULATER/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/sunilkora31/M1_PROJECT_CALCULATER/actions/workflows/cppcheck.yml)
 
 # Project Description:
 A calculator is a device that performs arithmetic operations on numbers. The simplest calculators can do only addition, subtraction, multiplication, and division. More sophisticated calculators can handle exponent ial operations, roots, logarithm s, trigonometric functions, and hyperbolic functions. Internally, some calculators actually perform all of these functions by repeated processes of addition.
